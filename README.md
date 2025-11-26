@@ -10,7 +10,7 @@ The system uses a fully serverless architecture on AWS:
 Receipt Upload → S3 → Lambda → Textract → DynamoDB → SES → Email
 ```
 
-![Architecture Diagram](receipt_processing_architecture.png)
+![Architecture Diagram](./receipt_processing_architecture.png)
 
 ## 🚀 Features
 
