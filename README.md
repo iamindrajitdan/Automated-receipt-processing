@@ -155,19 +155,13 @@ Automated emails include:
 
 ## 📸 Screenshots
 
-(./Screenshots/Screenshot%20(124).png)
-
-(./Screenshots/Screenshot%20(125).png)
-
-(./Screenshots/Screenshot%20(126).png)
-
-(./Screenshots/Screenshot%20(127).png)
-
-(./Screenshots/Screenshot%20(128).png)
-
-(./Screenshots/Screenshot%20(129).png)
-
-(./Screenshots/Screenshot%20(130).png)
+![Screenshot 1](./Screenshots/Screenshot%20(124).png)
+![Screenshot 2](./Screenshots/Screenshot%20(125).png)
+![Screenshot 3](./Screenshots/Screenshot%20(126).png)
+![Screenshot 4](./Screenshots/Screenshot%20(127).png)
+![Screenshot 5](./Screenshots/Screenshot%20(128).png)
+![Screenshot 6](./Screenshots/Screenshot%20(129).png)
+![Screenshot 7](./Screenshots/Screenshot%20(130).png)
 
 ## 🔍 Monitoring & Logging
 
