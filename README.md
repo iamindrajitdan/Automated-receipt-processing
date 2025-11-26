@@ -153,6 +153,22 @@ Automated emails include:
 - Itemized list of purchases
 - S3 location of original receipt
 
+## 📸 Screenshots
+
+(./Screenshots/Screenshot%20(124).png)
+
+(./Screenshots/Screenshot%20(125).png)
+
+(./Screenshots/Screenshot%20(126).png)
+
+(./Screenshots/Screenshot%20(127).png)
+
+(./Screenshots/Screenshot%20(128).png)
+
+(./Screenshots/Screenshot%20(129).png)
+
+(./Screenshots/Screenshot%20(130).png)
+
 ## 🔍 Monitoring & Logging
 
 - CloudWatch Logs for Lambda execution
